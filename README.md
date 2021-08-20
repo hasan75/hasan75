@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hasan75
 - 👀 I’m interested in web developing,mechine learning,football and travelling
 - 🌱 I’m currently learning mechine learning,Python,Git.
-- 💞️ I’m looking to collaborate on deep learning projects
+- I’m looking to collaborate on deep learning projects
 - 📫 How to reach me ... hasanjab14@gmail.com
 
 <!---
