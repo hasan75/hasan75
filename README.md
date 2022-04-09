@@ -4,6 +4,10 @@
 - I’m looking to collaborate on deep learning projects
 - 📫 How to reach me ... hasanjab14@gmail.com
 
+---
+
+![Hasan's github stats](https://github-readme-stats.vercel.app/api?username=hasan75&count_private=true)
+
 <!---
 hasan75/hasan75 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
