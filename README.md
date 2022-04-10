@@ -6,7 +6,7 @@
 
 ---
 
-![Hasan's github stats](https://github-readme-stats.vercel.app/api?username=hasan75&count_private=true)
+![Hasan's github stats](https://github-readme-stats.vercel.app/api?username=hasan75&count_private=true&show_icons=true&theme=dark)
 
 <!---
 hasan75/hasan75 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
