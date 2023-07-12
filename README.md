@@ -7,16 +7,17 @@ hasan75/hasan75 is a ✨ special ✨ repository because its `README.md` (this fi
 Here are some ideas to get you started:
 -->
 #### Who I am?
-- A Junior Front-end Software Engineer based in **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh).** 
+- A Junior Software Engineer based in **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh).** 
 - Have .5 years of hands-on experience in **frontend development, web software development.**
 - Developed products for **travel agency, online community, hotel business** and **pharmaceutical** business domains.
 - Have built  **web** apps targeting **multi-platform** ecosystems.
 
 #### What I'm doing?
-- 🏢 Working at **[Kajkam Initiative](https://kajkaminitiative.com/)** as a **FrontEnd Software Developer**.
+- 🏢 Working at **[Softzino Technologies](https://softzino.com/)** as a **Associate Software Engineer**.
+- 🏢 Working at **[Kajkam Initiative](https://kajkaminitiative.com/)** as a **FrontEnd Software Developer** (contractual).
 - 👨‍💻 Writing  `HTML` `CSS` `JavaScript`.
 - 🌍 Mostly active on <a href="https://www.linkedin.com/in/hasan75"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a> <!--[LinkedIn](https://www.linkedin.com/in/hasan75)-->.
-- 📚 Currently learning about **Vue Js**, **NUXT JS**, **System Architecture and Design**, and **techical pitch**.
+- 📚 Currently learning about **Vue Js**, **NUXT JS**, **Laravel**, **System Architecture and Design**, and **techical pitch**.
 - 👯 Looking to collaborate on **React Js/ Vue Js Projects**.
 
 
@@ -24,7 +25,7 @@ Here are some ideas to get you started:
 - 🖥 **Front-end:** 
   - **📜 Languages:**  • `👨‍🔧 JavaScript` • `🧚🏻‍♂️ HTML` • `👨🏻‍🎨 CSS`
   - **🔬 Frameworks:**  
-    - **🌐 Web:** • [React JS](https://reactjs.org/) • [Next Js](https://nextjs.org/) 
+    - **🌐 Web:** • [React JS](https://reactjs.org/) • [Next Js](https://nextjs.org/) • [Vue JS](https://vuejs.org/) 
 - 🗄️ **Back-end:**
   - **📜 Languages:** • `🧙🏻‍♂️ JavaScript`
   - **🔭 Frameworks:** • [Node JS](https://nodejs.org/en/)
