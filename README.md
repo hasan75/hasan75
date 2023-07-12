@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - Have built  **web** apps targeting **multi-platform** ecosystems.
 
 #### What I'm doing?
-- 🏢 Working at **[Softzino Technologies](https://softzino.com/)** as a **Associate Software Engineer**.
+- 🏢 Working at **[Softzino Technologies](https://softzino.com/)** as an **Associate Software Engineer**.
 - 🏢 Working at **[Kajkam Initiative](https://kajkaminitiative.com/)** as a **FrontEnd Software Developer** (contractual).
 - 👨‍💻 Writing  `HTML` `CSS` `JavaScript`.
 - 🌍 Mostly active on <a href="https://www.linkedin.com/in/hasan75"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a> <!--[LinkedIn](https://www.linkedin.com/in/hasan75)-->.
