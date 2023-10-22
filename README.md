@@ -36,7 +36,7 @@ Here are some ideas to get you started:
   - **🗃 Project management:** • [Jira Scrum Boards](https://www.atlassian.com/software/jira/features/scrum-boards) 
   
 - **🏗️ Code editors:**
-<a href="https://code.visualstudio.com/"><img src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" height=25></a><a href="https://notepad-plus-plus.org/"><img src="https://notepad-plus-plus.org/images/logo.svg" height=25></a>
+<a href="https://code.visualstudio.com/"><img src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" height=25></a><a href="https://www.jetbrains.com/webstorm/"><img src="https://seeklogo.com/images/W/webstorm-logo-691E749F21-seeklogo.com.png" height=25></a><a href="https://www.jetbrains.com/webstorm/"><img src="https://github.com/hasan75/hasan75/assets/74503611/e9f7de16-88b3-48ef-a6a8-3a9df4b7e4f6" height=25></a>
   
 #### What's interesting about me?  
   - 😎 I am an **ambivert**.
