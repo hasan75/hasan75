@@ -55,7 +55,7 @@ Here are some ideas to get you started:
     <img src="https://softzino.com/images/logo-wide.png" height=50>
     </a> 
   <a href="https://kajkaminitiative.com/">
-    <img src="https://i.ibb.co/s3mJ0gh/276257068-135455132378530-8395034906494863391-n.jpg" height=50>
+    <img src="https://i.ibb.co/s3mJ0gh/276257068-135455132378530-8395034906494863391-n.jpg" height=50 width=120>
     </a>
 </p>
 
