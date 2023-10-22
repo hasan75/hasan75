@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 🖥 **Front-end:** 
   - **📜 Languages:**  • `👨‍🔧 JavaScript` • `🧚🏻‍♂️ HTML` • `👨🏻‍🎨 CSS`
   - **🔬 Frameworks:**  
-    - **🌐 Web:** • [React JS](https://reactjs.org/) • [Next Js](https://nextjs.org/) • [Vue JS](https://vuejs.org/) 
+    - **🌐 Web:** • [React JS](https://reactjs.org/) • [Next Js](https://nextjs.org/) • [Vue JS](https://vuejs.org/) • [Nuxt]([https://vuejs.org/](https://nuxt.com/)) 
 - 🗄️ **Back-end:**
   - **📜 Languages:** • `🧙🏻‍♂️ JavaScript`
   - **🔭 Frameworks:** • [Node JS](https://nodejs.org/en/)
