@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 -->
 #### Who I am?
 - A Junior Software Engineer based in **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh).** 
-- Have .5 years of hands-on experience in **frontend development, web software development.**
+- Have 1.5 years of hands-on experience in **frontend development, web software development.**
 - Developed products for **travel agency, online community, hotel business** and **pharmaceutical** business domains.
 - Have built  **web** apps targeting **multi-platform** ecosystems.
 
