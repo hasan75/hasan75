@@ -7,8 +7,8 @@ hasan75/hasan75 is a ✨ special ✨ repository because its `README.md` (this fi
 #### Who I am
  
 - 🧑‍💻 Software Engineer based in **[Dhaka](https://en.wikipedia.org/wiki/Dhaka), [Bangladesh](https://en.wikipedia.org/wiki/Bangladesh)**.
-- <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/apple/white"><img src="https://cdn.simpleicons.org/apple/black" height="14"></picture> Independent contractor for **[Apple Inc](https://www.apple.com/)** (remote) — contributing to a reusable Vue 3 / Nuxt 3 / Nuxt 4 component library, integrating cloud storage APIs (Box), and practicing TDD with strong accessibility and design-standard discipline.
-- <img src="./assets/softzino-logo.png" alt="softzino" height="14"> Working at **[Softzino Technologies](https://softzino.com/)** as a **Software Engineer**, with 3+ years building reusable component libraries and large-scale enterprise web apps.
+- <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/apple/white"><img src="https://cdn.simpleicons.org/apple/black" height="16"></picture>  Independent contractor for **[Apple Inc](https://www.apple.com/)** (remote) — contributing to a reusable Vue 3 / Nuxt 3 / Nuxt 4 component library, integrating cloud storage APIs (Box), and practicing TDD with strong accessibility and design-standard discipline.
+- <img src="https://raw.githubusercontent.com/hasan75/hasan75/refs/heads/main/assets/softzino_logo.png" alt="softzino" height="16"> Working at **[Softzino Technologies](https://softzino.com/)** as a **Software Engineer**, with 3+ years building reusable component libraries and large-scale enterprise web apps.
 - 🎓 Computer Science graduate from **[IUBAT](https://iubat.edu/)** (CGPA 3.86), with a published research paper on plant disease classification using CNNs in *Indonesian Journal of Electrical Engineering and Computer Science (IJEECS)*.
 - 🌐 Portfolio → **[hahmed.netlify.app](https://hahmed.netlify.app/)**
 #### What I'm currently focused on
